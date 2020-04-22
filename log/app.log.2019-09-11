@@ -1,0 +1,2 @@
+INFO|2019-09-11 17:12:05|9229|139863863584512|server.py:28|{"project_name": "mp-pay-api", "db_address": "r-2ze51c4dadf84d74.redis.rds.aliyuncs.com", "db_type": "redis", "db_password": "Anbs23t2017"}
+INFO|2019-09-11 17:12:06|9229|139863863584512|_internal.py:88|192.168.132.99 - - [11/Sep/2019 17:12:06] "POST /v1/monitor HTTP/1.1" 200 -

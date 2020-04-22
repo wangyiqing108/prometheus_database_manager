@@ -1,0 +1,9 @@
+ERROR|2019-07-09 15:06:02|9229|139863863584512|_internal.py:88|192.168.210.60 - - [09/Jul/2019 15:06:02] code 400, message Bad request syntax ('}q')
+INFO|2019-07-09 15:06:02|9229|139863863584512|_internal.py:88|192.168.210.60 - - [09/Jul/2019 15:06:02] "}q" HTTPStatus.BAD_REQUEST -
+INFO|2019-07-09 15:09:15|9229|139863863584512|server.py:28|{"project_name": "mp-service-passport", "db_address": "r-2ze6996ea7f514e4.redis.rds.aliyuncs.com", "db_type": "redis", "db_password": "f514e4"}
+INFO|2019-07-09 15:09:16|9229|139863863584512|_internal.py:88|192.168.210.60 - - [09/Jul/2019 15:09:16] "POST /v1/monitor HTTP/1.1" 200 -
+INFO|2019-07-09 15:41:05|9229|139863863584512|server.py:28|{"project_name": "mp-qd-vivo", "db_address": "r-2zeae7a9c07e62d4.redis.rds.aliyuncs.com", "db_type": "redis", "db_password": "ywMC97gwId"}
+INFO|2019-07-09 15:41:05|9229|139863863584512|_internal.py:88|192.168.132.74 - - [09/Jul/2019 15:41:05] "POST /v1/monitor HTTP/1.1" 200 -
+INFO|2019-07-09 15:42:09|9229|139863863584512|server.py:28|{"project_name": "mp-service-passport", "db_address": "r-2ze6996ea7f514e4.redis.rds.aliyuncs.com", "db_type": "redis", "db_password": "E5gqPvPXjMk3ctjI"}
+WARNING|2019-07-09 15:42:09|9229|139863863584512|server.py:43|{"status_code": 6201, "data": "\u76d1\u63a7\u5931\u8d25, \u6570\u636e\u5e93\u76d1\u63a7\u5df2\u7ecf\u5b58\u5728!"}
+INFO|2019-07-09 15:42:09|9229|139863863584512|_internal.py:88|192.168.132.98 - - [09/Jul/2019 15:42:09] "POST /v1/monitor HTTP/1.1" 200 -

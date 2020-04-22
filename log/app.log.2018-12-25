@@ -1,0 +1,2 @@
+INFO|2018-12-25 14:47:27|9229|139863863584512|server.py:28|{"project_name": "mp-ms-video", "db_address": "rr-2ze89872hurorh3h5.mysql.rds.aliyuncs.com", "db_type": "mysql", "db_password": ""}
+INFO|2018-12-25 14:47:27|9229|139863863584512|_internal.py:88|192.168.210.60 - - [25/Dec/2018 14:47:27] "POST /v1/monitor HTTP/1.1" 200 -
